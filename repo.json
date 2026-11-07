@@ -1,0 +1,33 @@
+[
+    {
+        "Author":  "Marius Emyr (MusicManBowls), based on Brio by Minmoose, Asgard and Contributors",
+        "Name":  "Marionette",
+        "InternalName":  "Marionette",
+        "AssemblyVersion":  "0.1.0.0",
+        "Description":  "Pose, stage and film your characters in GPose by grabbing them with the mouse.\n- Drag any body part, with limbs that follow naturally; double click a hand or the head for fingers and the face\n- Add people, NPCs and creatures to the scene, from your saved Glamourer designs or the game\n- Emotes, walks, runs and expressions, with a free camera that flies anywhere\n- Photos with bars, looks and background blur, shown live on the game\n- The Director: make your own cutscenes with shots, camera paths, talk boxes, voices, music and sound effects\n- Record them to MP4, frame perfect or live, with each kind of sound as its own track if you like\n\nMarionette is a modified version of Brio, and like Brio it is licensed under the GPL 3.0. Turn Brio off while using it.",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/musicmanbowls/Marionette-Releases",
+        "Tags":  [
+                     "gpose",
+                     "posing",
+                     "cutscene",
+                     "camera",
+                     "photo",
+                     "video"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "IconUrl":  "https://raw.githubusercontent.com/musicmanbowls/Marionette-Releases/main/MarionetteIcon.png",
+        "Punchline":  "Pose, stage and film your characters in GPose, puppeteer style.",
+        "Changelog":  "First release for friends.",
+        "AcceptsFeedback":  false,
+        "TestingAssemblyVersion":  "0.1.0.0",
+        "DownloadLinkInstall":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.1.0.0/Marionette.zip",
+        "DownloadLinkTesting":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.1.0.0/Marionette.zip",
+        "DownloadLinkUpdate":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.1.0.0/Marionette.zip",
+        "LastUpdate":  1794088105
+    }
+]
