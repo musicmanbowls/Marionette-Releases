@@ -3,7 +3,7 @@
         "Author":  "Marius Emyr (MusicManBowls), based on Brio by Minmoose, Asgard and Contributors",
         "Name":  "Marionette",
         "InternalName":  "Marionette",
-        "AssemblyVersion":  "0.1.0.0",
+        "AssemblyVersion":  "0.1.1.0",
         "Description":  "Pose, stage and film your characters in GPose by grabbing them with the mouse.\n- Drag any body part, with limbs that follow naturally; double click a hand or the head for fingers and the face\n- Add people, NPCs and creatures to the scene, from your saved Glamourer designs or the game\n- Emotes, walks, runs and expressions, with a free camera that flies anywhere\n- Photos with bars, looks and background blur, shown live on the game\n- The Director: make your own cutscenes with shots, camera paths, talk boxes, voices, music and sound effects\n- Record them to MP4, frame perfect or live, with each kind of sound as its own track if you like\n\nMarionette is a modified version of Brio, and like Brio it is licensed under the GPL 3.0. Turn Brio off while using it.",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/musicmanbowls/Marionette-Releases",
@@ -22,12 +22,12 @@
         "LoadPriority":  0,
         "IconUrl":  "https://raw.githubusercontent.com/musicmanbowls/Marionette-Releases/main/MarionetteIcon.png",
         "Punchline":  "Pose, stage and film your characters in GPose, puppeteer style.",
-        "Changelog":  "First release for friends.",
+        "Changelog":  "Easier to learn: a welcome screen, guided tours of every tab (with cutscene versions), a controls card with quick buttons, tooltips everywhere and undo notes. Click empty space or press Esc to let go of a body part. New Roughed up page in Outfit: dirt, bruise and cut face marks, wet skin, hurt poses, and cutscene blood, tears and dust. Game sound effects named by creature, job and mount.",
         "AcceptsFeedback":  false,
-        "TestingAssemblyVersion":  "0.1.0.0",
-        "DownloadLinkInstall":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.1.0.0/Marionette.zip",
-        "DownloadLinkTesting":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.1.0.0/Marionette.zip",
-        "DownloadLinkUpdate":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.1.0.0/Marionette.zip",
-        "LastUpdate":  1794088105
+        "TestingAssemblyVersion":  "0.1.1.0",
+        "DownloadLinkInstall":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.1.1.0/Marionette.zip",
+        "DownloadLinkTesting":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.1.1.0/Marionette.zip",
+        "DownloadLinkUpdate":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.1.1.0/Marionette.zip",
+        "LastUpdate":  1794872257
     }
 ]
