@@ -3,7 +3,7 @@
         "Author":  "Marius Emyr (MusicManBowls), based on Brio by Minmoose, Asgard and Contributors",
         "Name":  "Marionette",
         "InternalName":  "Marionette",
-        "AssemblyVersion":  "0.2.0.0",
+        "AssemblyVersion":  "0.2.0.1",
         "Description":  "Pose, stage and film your characters in GPose by grabbing them with the mouse.\n- Drag any body part, with limbs that follow naturally; double click a hand or the head for fingers and the face\n- Add people, NPCs and creatures to the scene, from your saved Glamourer designs or the game\n- Emotes, walks, runs and expressions, with a free camera that flies anywhere\n- Photos with bars, looks and background blur, shown live on the game\n- Build almost any place in the game around you, from story cutscene sets to dungeons, with its own sky\n- Rough people up: face marks, wet skin, hurt poses, and a painter for dirt, blood, bruises and torn clothes\n- The Director: make your own cutscenes with shots, camera paths, talk boxes, voices, music and sound effects\n- Record them to MP4, frame perfect or live, with each kind of sound as its own track if you like\n\nMarionette is a modified version of Brio, and like Brio it is licensed under the GPL 3.0. Turn Brio off while using it.",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/musicmanbowls/Marionette-Releases",
@@ -22,12 +22,12 @@
         "LoadPriority":  0,
         "IconUrl":  "https://raw.githubusercontent.com/musicmanbowls/Marionette-Releases/main/MarionetteIcon.png",
         "Punchline":  "Pose, stage and film your characters in GPose, puppeteer style.",
-        "Changelog":  "Build almost any place in the game around you: story cutscene sets, cities, zones, dungeons and more, built indoors with the room hidden, slid and turned to fit, with their parts, lights, cutscene effects and their own sky, weather and live forecast. Save skies to reuse, a black void for empty sets, and a spot to choose where new things appear. New painter in Roughed up: dirt, blood, bruises, scratches and wounds on face, body and clothes, tears and frays in gear, wet, matte and raised finishes, each side painted on its own, painting straight onto the person, and saved looks. Needs Penumbra. New detailed tours for building scenes, Roughed up and the painter. Faster free camera, and a crash fix for cutscenes ending mid-redraw.",
+        "Changelog":  "Fixes the painter using more and more memory: everything painted is now let go when you leave GPose (it used to stay until the game closed, often several GB), undo keeps fewer steps on very large pictures, and textures the painter swapped out of the game are released. Restart the game once after updating to free any memory the old version was holding.",
         "AcceptsFeedback":  false,
-        "TestingAssemblyVersion":  "0.2.0.0",
-        "DownloadLinkInstall":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.2.0.0/Marionette.zip",
-        "DownloadLinkTesting":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.2.0.0/Marionette.zip",
-        "DownloadLinkUpdate":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.2.0.0/Marionette.zip",
-        "LastUpdate":  1794963612
+        "TestingAssemblyVersion":  "0.2.0.1",
+        "DownloadLinkInstall":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.2.0.1/Marionette.zip",
+        "DownloadLinkTesting":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.2.0.1/Marionette.zip",
+        "DownloadLinkUpdate":  "https://github.com/musicmanbowls/Marionette-Releases/releases/download/v0.2.0.1/Marionette.zip",
+        "LastUpdate":  1794965932
     }
 ]
